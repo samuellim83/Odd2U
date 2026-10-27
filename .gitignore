@@ -1,0 +1,41 @@
+# Generated builds, model bundles, installer output and local backups
+/build/
+/build-*/
+/dist/
+/output/
+/versions/
+/packaging/tools/
+/packaging/install-smoke/
+/packaging/zip-smoke/
+*.exe
+*.dll
+*.pdb
+*.zip
+*.obj
+*.log
+
+# Personal reference media and local planning notes
+/assets/references/
+/*.png
+/*.mp4
+/AVAST-REVIEW.md
+/DEVELOPMENT.md
+/AI-UPGRADE-PLAN.md
+
+# Runtime data and credentials
+**/Data/
+**/Chats/
+**/models/
+settings.xml
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local editor/agent state
+/.codex/
+/.agents/
+.vs/
+*.user
+*.suo
