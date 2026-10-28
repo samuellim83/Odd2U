@@ -2,6 +2,10 @@
 
 A Windows 11 desktop cat companion built with C# and WPF 3D. Odd has a procedural animated model, a compact dashboard, optional local AI chat, and English/Mandarin voice commands.
 
+<p align="center">
+  <img src="assets/odd-preview.gif" alt="Odd wiggling her tail, jumping and smiling" width="420">
+</p>
+
 ## Features
 
 - Twelve actions, including walking, sitting, jumping, scratching and tail wiggles.
